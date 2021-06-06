@@ -1,0 +1,179 @@
+[
+  {
+    "id": 0,
+    "name": "iPhone 12",
+    "manufacturer": "Apple",
+    "description": "The iPhone 12 Pro is the top model of the 14th generation of Apple's smartphone.",
+    "price": 1000,
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/711wsjBtWeL._SL1500_.jpg",
+    "screen": "6,1 inch IPS",
+    "processor": "A14 Bionic",
+    "storage": 128
+  },
+  {
+    "id": 1,
+    "name": "iPhone XR",
+    "manufacturer": "Apple",
+    "description": "Available in six colors, the iPhone XR is equipped with a large 6.1-inch LCD screen.",
+    "price": 1159,
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/518Cj2o6qsL._AC_SX522_.jpg",
+    "screen": "6,1 inch IPS",
+    "processor": "A14 Bionic",
+    "storage": 128
+  },
+  {
+    "id": 2,
+    "name": "iPhone 11",
+    "manufacturer": "Apple",
+    "description": "Available in six colors, the iPhone 11 is equipped with a large 6.1-inch LCD screen.",
+    "price": 700,
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/71QE00iB9IL._SL1500_.jpg",
+    "screen": "6,1 inch IPS",
+    "processor": "A14 Bionic",
+    "storage": 64
+  },
+  {
+    "id": 3,
+    "name": "iPhone 12 Pro Max",
+    "manufacturer": "Apple",
+    "description": "The iPhone 12 Pro Max is the top model of the 14th generation of Apple's smartphone.",
+    "price": 1250,
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/71MHTD3uL4L._SL1500_.jpg",
+    "screen": "6,7 inch IPS",
+    "processor": "A14 Bionic",
+    "storage": 128
+  },
+  {
+    "id": 4,
+    "name": "Galaxy S21",
+    "manufacturer": "Samsung",
+    "description": "Ultra sharp photos: 64 Megapixels with a very high speed 5G compatible.",
+    "price": 799,
+    "imageLink": "https://images.samsung.com/is/image/samsung/p6pim/fr/galaxy-s21/gallery/fr-galaxy-s21-5g-g991-sm-g991bzvgeuh-368998809?$720_576_PNG$",
+    "screen": "6,2 inch IPS",
+    "processor": "5nm galaxy",
+    "storage": 128
+  },
+  {
+    "id": 5,
+    "name": "Fold 2",
+    "manufacturer": "Samsung",
+    "description": "Samsung Fold 2 256 GB Black - France.",
+    "price": 1800,
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/71Z2FRXNtyL._AC_SL1500_.jpg",
+    "screen": "6,2 inch IPS",
+    "processor": "nm 5 Galaxy",
+    "storage": 256
+  },
+  {
+    "id": 6,
+    "name": "Galaxy A12",
+    "manufacturer": "Samsung",
+    "description": "Samsung Galaxy A12 4G - Black - 64GB - Unlocked Android Smartphone.",
+    "price": 169,
+    "imageLink": "https://www.yaphone.com/4510-large_default/samsung-galaxy-a12.jpg",
+    "screen": "6,2 inch IPS",
+    "processor": "nm 5 Galaxy",
+    "storage": 128
+  },
+  {
+    "id": 7,
+    "name": "Galaxy A32",
+    "manufacturer": "Apple",
+    "description": "Samsung Galaxy A32 5G -White- 128GB - Unlocked Android Smartphone - French Version - Earphones included.",
+    "price": 200,
+    "imageLink": "https://dyw7ncnq1en5l.cloudfront.net/optim/product/61/61671/56b0ef03-galaxy-a32-5g__w450.jpeg",
+    "screen": "6,1 inch IPS",
+    "processor": "nm 5 Galaxy",
+    "storage": 128
+  },
+  {
+    "id": 8,
+    "name": "Reno 4Z",
+    "manufacturer": "Oppo",
+    "description": "Unlocked 5G Smartphone - 5G Phone 128 GB - 8 GB RAM - 120 Hz Screen - 4000 mAh Battery.",
+    "price": 269,
+    "imageLink": "https://dyw7ncnq1en5l.cloudfront.net/optim/product/60/60195/3e7ca5e5-reno4-z__w450.jpeg",
+    "screen": "6,4 inch IPS",
+    "processor": "Qualcomm Snapdragon 765G",
+    "storage": 128
+  },
+  {
+    "id": 9,
+    "name": "A53s",
+    "manufacturer": "Oppo",
+    "description": "Unlocked 4G Smartphone - 4G Phone 128 GB - 8 GB RAM - 120 Hz Screen - 4000 mAh Battery.",
+    "price": 172,
+    "imageLink": "https://cdn.movertix.com/media/catalog/product/cache/image/1200x/o/p/oppo-a53s-dual-sim-electric-black-128gb-and-4gb-ram.jpg",
+    "screen": "6,4 inch IPS",
+    "processor": "Qualcomm Snapdragon 765G",
+    "storage": 128
+  },
+  {
+    "id": 10,
+    "name": "Find X3 Pro",
+    "manufacturer": "Oppo",
+    "description": "OPPO Find X3 Pro - Unlocked 5G Smartphone - 5G 256 GB Phone - 12 GB RAM - 120 Hz Screen - 4500 mAh Battery.",
+    "price": 1149,
+    "imageLink": "https://images.frandroid.com/wp-content/uploads/2021/03/oppo-find-x3-pro.png",
+    "screen": "6,7 inch IPS",
+    "processor": "Qualcomm Snapdragon 765G",
+    "storage": 256
+  },
+
+  {
+    "id": 11,
+    "name": "A53",
+    "manufacturer": "Oppo",
+    "description": "OPPO A53 Mint Cream - 64 GB - 4 GB RAM - 90Hz Immersive Screen - 5000 mAh Battery.",
+    "price": 180,
+    "imageLink": "https://d1eh9yux7w8iql.cloudfront.net/product_images/428446_a3df7b8c-bf5e-4168-aca7-1d0a41d3bb51.jpg",
+    "screen": "6,5 inch IPS",
+    "processor": "Qualcomm Snapdragon 765G",
+    "storage": 128
+  },
+  {
+    "id": 12,
+    "name": "Redmi Note 10",
+    "manufacturer": "Xiaomi",
+    "description": "Xiaomi Redmi Note 10 16.3 cm (6.43) Dual SIM Android 11 4G USB Type-C 4 GB 64 GB 5000 mAh Green.",
+    "price": 160,
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/31K4PC%2BnuVS._AC_.jpg",
+    "screen": "6,1 inch IPS",
+    "processor": "Qualcomm Snapdragon 678",
+    "storage": 128
+  },
+  {
+    "id": 13,
+    "name": "Redmi Note 10 Pro",
+    "manufacturer": "Xiaomi",
+    "description": "Xiaomi Redmi Note 10 Pro - Smartphone 6 + 64GB, 6.67 ”120Hz AMOLED DotDisplay, Snapdragon 732G.",
+    "price": 279,
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51nrgN-52eL._AC_SL1001_.jpg",
+    "screen": "6,1 inch IPS",
+    "processor": "Qualcomm Snapdragon 678",
+    "storage": 128
+  },
+  {
+    "id": 14,
+    "name": "Redmi 9",
+    "manufacturer": "Xiaomi",
+    "description": "Redmi 9 Samartphone - 4GB 64GB AI QUAD CAMERA 6.53 \"Full HD + display 5020mAh.",
+    "price": 118,
+    "imageLink": "https://images.frandroid.com/wp-content/uploads/2020/06/xiaomi-redmi-9-frandroid-2020.png",
+    "screen": "6,1 inch IPS",
+    "processor": "Qualcomm Snapdragon 678",
+    "storage": 64
+  },
+  {
+    "id": 15,
+    "name": "Redmi Note 9 ",
+    "manufacturer": "Xiaomi",
+    "description": "Xiaomi Redmi Note 9 Unlocked Smartphone 4GB RAM 128GB ROM.",
+    "price": 154,
+    "imageLink": "https://images.frandroid.com/wp-content/uploads/2020/03/xiaomi-redmi-note-9-frandroid-2020-officiel.png",
+    "screen": "6,1 inch IPS",
+    "processor": "Qualcomm Snapdragon 678",
+    "storage": 128
+  }
+]
