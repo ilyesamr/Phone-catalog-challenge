@@ -50,6 +50,6 @@ npm test
 ## Demo
 This application is deployed with [Heroku](https://www.heroku.com/). 
 
-If you want to access to the app please click [here](https://phone-catalog-ilyes.herokuapp.com/)
+If you want to access to the app please click [here](https://phone-catalog-challenge.herokuapp.com/)
 
 
